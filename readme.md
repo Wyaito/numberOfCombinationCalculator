@@ -1,4 +1,4 @@
-This is a calulator that will compute the number of possible number of combinations when choosing a sample from a group or population of data.
+This is a calulator that will compute the number of possible combinations when choosing a sample from a group or population of data.
 
 equation:
 n!/k!(n-k)!
