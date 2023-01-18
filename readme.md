@@ -4,7 +4,7 @@ equation:
 n!/k!(n-k)!
 where
 n = the population size
-k the size of the sample you are selecting
+k = the size of the sample you are selecting
 for example say you have 5 letters (a, b, c, d, e), and you were going to randomly select 2 of them. there are 10 different possible combinations that you will get when the order they are selected doesn't matter.
 the 10 possible combinations would be:
 a and b,
