@@ -2,6 +2,7 @@ This is a calulator that will compute the number of possible number of combinati
 
 equation:
 n!/k!(n-k)!
+
 where
 
 n = the population size
