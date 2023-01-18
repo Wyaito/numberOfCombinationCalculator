@@ -17,5 +17,6 @@ dFinal = dFacto * nMinuskfacto
 
 #final output
 numOfCombinations = nFinal / dFinal
+print('The number of possible combinations you can get are:  ')
 print(numOfCombinations)
 
