@@ -29,4 +29,4 @@ the 10 possible combinations would be:
   
   c and e,
   
-  d and e,
+  d and e
